@@ -1,4 +1,4 @@
-# PyPass-Mono
+# PyPass-Uni
 A simple, easy password generator. This generator creates a random password of a set length, simple as that
 
 ## How to use
